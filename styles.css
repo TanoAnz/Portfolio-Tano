@@ -1,0 +1,35 @@
+.nav a{
+    color:white;
+    font-family: 'Oswald', sans-serif;
+}
+.nav{
+    box-shadow: 3px 3px 3px 3px;
+}
+.Casella{
+    color:white;
+    padding:50px;
+    font-weight:lighter;
+}
+.title{
+    color:white;
+    margin-top:20px;
+    margin-left:10px;
+    font-family: 'Quicksand', sans-serif;
+}
+.col-xl-6{ 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow:3px 3px 3px 2px;
+    margin-top:20px;
+}
+.Sociall{
+    color:white;
+    text-decoration: none;
+    font-family: 'Quicksand', sans-serif;
+    padding:50px;
+    font-size:70px;
+}
+.Sociall:hover{
+    color:blue;
+}
